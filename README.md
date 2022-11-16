@@ -1,5 +1,4 @@
 ### face_generator
 GAN을 활용하여 사람의 얼굴을 학습하고 가상의 사람 얼굴을 생성하는 프로그램 입니다.<br>
-<br>
-<hr>개발환경<hr>
+<i>개발환경<i>
 Google Colab
